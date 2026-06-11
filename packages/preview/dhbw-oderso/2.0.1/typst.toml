@@ -9,6 +9,7 @@ description = "All kinds of theses at DHBW and IHK"
 repository = "https://github.com/dhbw-typst/oderso-template"
 keywords = [
     "DHBW",
+    "DHBW Karlsruhe",
     "template",
     "Praxisarbeit",
     "Studienarbeit",
